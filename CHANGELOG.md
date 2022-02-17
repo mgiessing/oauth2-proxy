@@ -8,6 +8,7 @@
 
 ## Changes since v7.2.1
 
+- [#1559](https://github.com/oauth2-proxy/oauth2-proxy/pull/1559) Introduce ProviderVerifier to clean up OIDC discovery code (@JoelSpeed)
 - [#1560](https://github.com/oauth2-proxy/oauth2-proxy/pull/1560) Fix provider data initialisation (@JoelSpeed)
 - [#1555](https://github.com/oauth2-proxy/oauth2-proxy/pull/1555) Refactor provider configuration into providers package (@JoelSpeed)
 - [#1394](https://github.com/oauth2-proxy/oauth2-proxy/pull/1394) Add generic claim extractor to get claims from ID Tokens (@JoelSpeed)
